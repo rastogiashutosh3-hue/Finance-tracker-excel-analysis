@@ -42,7 +42,7 @@ personal-finance-tracker/
 ![Expense Breakdown](Screenshots/Expenses.png)
 
 ### Investment Growth
-![Investment Growth](screenshots/Goals.png)
+![Investment Growth](Screenshots/Goals.png)
 
 👉 Place your screenshots inside the `screenshots/` folder and update the paths above.
 
